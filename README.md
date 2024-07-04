@@ -1,1 +1,1 @@
-# yolov8_ros
+# yolov8_ros (object detection)
